@@ -1,11 +1,11 @@
 <?php
 
-/***********************************************
+/****
 [Tipask!] (C)2010 - 2014  Tipask Inc.
 This is NOT a freeware, use is subject to license terms
 
 $Id: index.php 2009-12-22 11:15 Cral $
-***********************************************/
+*/
 
 error_reporting(0);
 @set_time_limit(1000);
